@@ -1,0 +1,1 @@
+{"version":3,"sources":["build.js"],"names":["alert","console","log"],"mappings":"CAAA,WACC,aAEAA,MAAM,eAHP,GAKA,WACC,aAEAC,QAAQC,IAAI,sBAHb","file":"build.js","sourcesContent":["(function(){\r\n\t'use strict';\r\n\r\n\talert('Funcionando');\r\n})();\n(function(){\r\n\t'use strict';\r\n\r\n\tconsole.log(\"Funcionando leagal\")\r\n})();"]}
