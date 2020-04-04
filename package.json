@@ -15,6 +15,6 @@
     "gulp-concat": "^2.6.1",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
-    "readable-stream": "^3.4.0"
+    "readable-stream": "^3.6.0"
   }
 }
